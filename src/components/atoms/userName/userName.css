@@ -1,0 +1,12 @@
+.align-items-left{
+    -ms-flex-align: start;
+}
+.align-items-right {
+    align-items: flex-end;
+}
+.text-align-center {
+    text-align: center;
+}
+.text-align-right{
+    text-align: end;
+}

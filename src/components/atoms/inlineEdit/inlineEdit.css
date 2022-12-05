@@ -1,0 +1,22 @@
+input {
+    background-color: transparent;
+    color:black;
+    border: 0;
+    padding: 3px;
+}
+input:focus {
+    background-color: transparent;
+    cursor: pointer;
+    border:0px transparent solid;
+    border-bottom: 1px dashed black;
+    outline: none;
+    
+}
+.preview:focus {
+    background-color: transparent;
+    cursor: pointer;
+    border: 0px transparent solid;
+    outline: none;
+    user-select: none;
+    pointer-events: none;
+}

@@ -1,0 +1,11 @@
+:root {
+    --bg-area-color-1 :#f4747e;
+    --bg-area-color-2: #C67BFE;
+    --bg-area : linear-gradient(to left, var(--bg-area-color-1),var(--bg-area-color-2));
+
+    --bg-circle-color-1:rgba(26, 76, 184, 0.6);
+    --bg-circle-color-2:rgba(198, 123, 254, 0.6);
+    --bg-circle : linear-gradient(to left, var(--bg-circle-color-1), var(--bg-circle-color-2));
+
+    --font-size:"large";
+}

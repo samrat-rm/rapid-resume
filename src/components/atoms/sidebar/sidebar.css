@@ -1,0 +1,4 @@
+:root { --chakra-space-4:0px !important; }
+.boxClose{
+    max-width: 20px;
+}

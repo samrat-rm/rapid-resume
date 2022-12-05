@@ -1,0 +1,16 @@
+.square {
+    aspect-ratio: 1/1;
+    height: auto;
+    width: 156px;
+    max-width: 156px;
+    background: transparent;
+}
+.isround {
+    aspect-ratio: 1/1;
+    height: auto;
+    width: 156px;
+    max-width: 156px;
+    border-radius: 50%;
+    background: transparent;
+}
+
